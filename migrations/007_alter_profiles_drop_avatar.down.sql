@@ -1,0 +1,2 @@
+ALTER TABLE profiles
+ADD COLUMN avatar VARCHAR(255) NULL AFTER phone;
